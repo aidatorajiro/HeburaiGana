@@ -1,0 +1,24 @@
+#kanadiv {
+  margin: auto;
+  padding: 20px;
+  background: #EEEEEE;
+}
+.kana {
+  display: inline-block;
+  height: 50px;
+  width: 50px;
+  margin: 10px;
+  text-align: center;
+  overflow: hidden;
+  line-height: 50px;
+  font-size: 40px;
+}
+
+#desc {
+  color: #222222;
+  text-align: center;
+}
+
+#desc h1 {
+  color: #333333;
+}
