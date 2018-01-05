@@ -5,3 +5,5 @@
 例：「初めてのヘブライ語」→ HJMTNHBRIG
 
 ![スクリーンショット](https://raw.githubusercontent.com/aidatorajiro/HeburaiGana/master/scrshot.png)
+
+（ヘブライ語ではないんだけどね・・・。）
